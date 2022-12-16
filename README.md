@@ -23,7 +23,5 @@
 <p><a href="https://www.buymeacoffee.com/efecanbolat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="efecanbolat" /></a></p><br><br>
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=efecnblt&show_icons=true&locale=en&layout=compact" alt="efecnblt" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=efecnblt&" alt="efecnblt"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=efecnblt&show_icons=true&locale=en" alt="efecnblt"/></p>
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=efecnblt&" alt="efecnblt" height="250" width="450"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=efecnblt&show_icons=true&locale=en" alt="efecnblt"  height="250" width="450"/></p>

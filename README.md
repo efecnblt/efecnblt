@@ -33,23 +33,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efecnblt&theme=tokyonight&layout=compact&hide_border=true" width="47%"/>
 </p>
 
----
-
-### 🚀 Featured Projects
-| Project | What it does | Tech |
-|---------|--------------|------|
-| **CyberGuard Mobile** | Cybersecurity training app with interactive video lessons and quizzes. | Flutter · Firebase |
-| **ChatBot Web** | A web chat app with GPT back-end, chat history and themes. | React · Node |
-| **Eyewear Tycoon** | A 3D Unity game simulating an eyewear retail business. | C# · Unity |
-| **Log-File Analyzer** | Multi-threaded C analyzer that watches logs and flags anomalies in real time. | C · POSIX Threads |
-
-> Browse all my repos at <https://github.com/efecnblt>
 
 ---
 
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/efecanbolat)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/efecnblt)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/efecnblt)
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/efecanbolat)
 
